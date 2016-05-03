@@ -9,8 +9,6 @@ this will be used for obtaining the OTP HASH of a 3ds with nothing but a Raspber
 
 -write code which will reboot the 3ds after a new key has been written into NAND
 
--write code to read out specific registers on the MCU and act according to how they are set
-
 -write code to retrieve the OTP HASH once it has been found
 
 #Library
