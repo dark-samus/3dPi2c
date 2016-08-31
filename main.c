@@ -4,7 +4,7 @@
 
 void main()
 {
-	int filedesc = wiringPi2cSetup();
+	int filedesc = wiringPi2cSetup(0x4A);
 	bool success = 0;
 	
 	do 
